@@ -28,7 +28,7 @@
 
 5) Next, enable the plugin by selecting **Installed** from the Plugins dialog sidebar and ensure **Beacons** is checked as shown below.  Also ensure, the **GRASS GIS Processing Provider** and **Processing Saga NextGen Provider** are checked as well.
 
-* ![](./wikimgs/plugins_installed.PNG?raw=true)
+* ![](./blob/main/wikimgs/plugins_installed.PNG?raw=true)
 
 
 6) The plugin is now ready to use and can be accessed through the **Processing Toolbox**.
