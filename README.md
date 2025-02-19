@@ -2,7 +2,7 @@
 
 1) [Download and Install QGIS](#1-download-and-install-qgis)
 2) [Download and Install BEACONs processing provider plugin](#2-download-and-install-beacons-processing-provider-plugin)
-3) [Tutorial]()
+3) [Tutorial](#3-tutorial)
 
 ### <ins>**1) Download and Install QGIS**</ins>
 * Download QGIS from [here](https://qgis.org/download/).  For Windows users, choose **Offline (Standalone) installers:** **Latest Version for Windows (3.xx)**. 
