@@ -4,16 +4,15 @@
 2) [Download and Install BEACONs processing provider plugin](#2-download-and-install-beacons-processing-provider-plugin)
 3) [Tutorial](#3-tutorial)
 
+
 ### <ins>**1) Download and Install QGIS**</ins>
 * Download QGIS from [here](https://qgis.org/download/).  For Windows users, choose **Offline (Standalone) installers:** **Latest Version for Windows (3.xx)**. 
 * Install the downloaded file.
 
-
-
 ### <ins>**2) Download and Install BEACONs processing provider plugin**</ins>
 
 * Download plugin from [here](https://github.com/amoygh/test/releases/download/beacons/beacons_provider_v0.01.zip). Remember where it was saved.
-* Start QGIS and do the following steps.  Refer to the below image for steps 1-4:
+* Start QGIS and do the following steps.  Refer to the below image for steps i-iv:
 <ul>
 
 1) From the **Plugins** menu select **Manage and Install Plugins** and the **Plugins** dialog will appear.  
