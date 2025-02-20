@@ -23,12 +23,12 @@
     * The BEACONs plugin is dependent on the following plugins:  Saga NextGen Provider plugin.  If this is not already installed, a dialog called **Plugin Dependencies Manager** will appear. Press **OK** to allow this plugin to be installed.
     * Wait for the installation to complete.  
 
-* ![](./blob/main/wikimgs/QGIS_Plugins_Manage_and_Install_Plugins_%20plugins_install_from_ZIP.png?raw=true)
+* ![](./wikimgs/QGIS_Plugins_Manage_and_Install_Plugins_%20plugins_install_from_ZIP.png?raw=true)
 
 
 5) Next, enable the plugin by selecting **Installed** from the Plugins dialog sidebar and ensure **Beacons** is checked as shown below.  Also ensure, the **GRASS GIS Processing Provider** and **Processing Saga NextGen Provider** are checked as well.
 
-* ![](./blob/main/wikimgs/plugins_installed.PNG?raw=true)
+* ![](./wikimgs/plugins_installed.PNG?raw=true)
 
 
 6) The plugin is now ready to use and can be accessed through the **Processing Toolbox**.
