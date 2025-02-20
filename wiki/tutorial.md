@@ -41,7 +41,6 @@ Download the tutorial data geopackage **tutorial_data.gpkg** from [here](https:/
 ![](./images/study_area.png)
 
 
-
 </ul>
 
 ### **Setting up the QGIS project**
