@@ -1,7 +1,7 @@
 ### <ins>**Creating a Benchmark Builder dataset tutorial**</ins>
 <ul>
 
-Before starting, ensure that the Beacons Processing Provider plugin is installed before continuing.  If it's not, then click [](https://github.com/amoygh/test#) to install it.
+Before starting, ensure that the Beacons Processing Provider plugin is installed before continuing.  If it's not, then click [here](https://github.com/amoygh/test#) to install it.
 
 
 ### Table of Contents ###
